@@ -1,0 +1,1 @@
+/usr/local/cuda-12.6/bin/nvcc -forward-unknown-to-host-compiler -O3 -DNDEBUG -arch=all -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink --options-file CMakeFiles/fluid_simulation.dir/deviceObjects1.rsp -o CMakeFiles/fluid_simulation.dir/cmake_device_link.o --options-file CMakeFiles/fluid_simulation.dir/deviceLinkLibs.rsp
