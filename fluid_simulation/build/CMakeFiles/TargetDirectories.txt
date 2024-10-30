@@ -1,3 +1,0 @@
-/home/osvaldo/proyectos/Programacion/fluid_simulation/build/CMakeFiles/fluid_simulation.dir
-/home/osvaldo/proyectos/Programacion/fluid_simulation/build/CMakeFiles/edit_cache.dir
-/home/osvaldo/proyectos/Programacion/fluid_simulation/build/CMakeFiles/rebuild_cache.dir
